@@ -1,4 +1,4 @@
-package dev.oblivion;
+package dev.oblivion.desafio.itau.backend.Statistics;
 
 import lombok.Getter;
 

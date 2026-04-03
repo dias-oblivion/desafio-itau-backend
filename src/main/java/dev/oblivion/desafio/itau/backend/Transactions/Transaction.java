@@ -1,4 +1,4 @@
-package dev.oblivion;
+package dev.oblivion.desafio.itau.backend.Transactions;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
